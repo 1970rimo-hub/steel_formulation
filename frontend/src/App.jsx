@@ -16,7 +16,7 @@ import html2canvas from 'html2canvas';
 // Change this to your Render URL after deploying the backend
 // const API_BASE = "http://localhost:5000";
 // After deploying backend o render
-const API_BASE = "https://steel-backend.onrender.com";
+const API_BASE = "https://steel-formulation.onrender.com";
 
 
 const ELEMENTS = [

@@ -14,7 +14,10 @@ import html2canvas from 'html2canvas';
 // CONFIGURATION & CONSTANTS
 // ----------------------------------------------------------------
 // Change this to your Render URL after deploying the backend
-const API_BASE = "http://localhost:5000";
+// const API_BASE = "http://localhost:5000";
+// After deploying backend o render
+const API_BASE = "https://steel-backend.onrender.com";
+
 
 const ELEMENTS = [
   { key: 'C', name: 'Carbon', color: '#f87171', desc: 'Hardness', weight: 700 },
